@@ -1,0 +1,10 @@
+{
+  "name": "wp-cli/edd-customers-command-extended",
+  "description": "Export and import WordPress menus from WP-CLI",
+  "type": "wp-cli-package",
+  "homepage": "https://github.com/wp-bullet/edd-customers-command-extended",
+  "license": "MIT",
+  "autoload": {
+    "files": [ "command.php" ]
+  }
+}
