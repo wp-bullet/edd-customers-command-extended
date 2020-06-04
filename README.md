@@ -3,7 +3,7 @@ wp-cli/edd-customers-command-extended
 
 Extend the original "edd customers" EDD CLI command by adding functionality to delete a customer.
 
-Quick links: [Delete an EDD customer](#wp-menu-export)
+Quick links: [Delete an EDD customer](#delete-an-edd-customer)
 
 ## Installation
 
